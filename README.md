@@ -11,6 +11,7 @@ HTML5 – for structuring the web page content
 CSS3 – for styling, layout, and responsiveness
 
 Features: -
+<br>
 Navigation bar with logo, search bar, and menu items
 <br>
 Product sections styled to resemble Amazon’s layout
