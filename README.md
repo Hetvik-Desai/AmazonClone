@@ -1,6 +1,6 @@
 #Amazon Clone Project
 <br>
-Overview: This project is a beginner-level front-end clone of the Amazon homepage, built using only HTML and CSS.the goal of this project was to understand the fundamentals of web design, including layout structuring, styling, and responsiveness, without relying on JavaScript or external frameworks.
+Overview: This project is a beginner-level front-end clone of the Amazon homepage, built using only HTML and CSS. The goal of this project was to understand the fundamentals of web design, including layout structuring, styling, and responsiveness, without relying on JavaScript or external frameworks.
 
 Objective: The primary objective of creating this clone was to practice core front-end concepts such as semantic HTML, CSS positioning, flexbox, and basic responsive design. By replicating a familiar and complex interface like Amazon, this project helped in developing an eye for detail and improving the ability to translate real-world UI into code.
 
@@ -21,6 +21,7 @@ Footer with multiple informational links
 Basic responsive design using CSS
 
 Learning Outcome: -
+<br>
 Improved understanding of HTML page structure
 <br>
 Hands-on experience with CSS styling and layout techniques
